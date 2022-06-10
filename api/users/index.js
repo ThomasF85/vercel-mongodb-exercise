@@ -18,7 +18,7 @@ export default async function handler(request, response) {
 
 		// UPDATE example:
 		// const updatedUser = await User.findByIdAndUpdate(
-		// 	'62a1ec233a4d567120be0f79',
+		// 	'62a1fdd60f397c0e7e944d23',
 		// 	{$set: {name: 'Mario'}},
 		// 	{new: true}
 		// );
